@@ -1,0 +1,10 @@
+2024-12-12 10:23:45,123 INFO User login successful for user_id=101
+2024-12-12 10:24:12,456 WARNING Low disk space on drive D:
+2024-12-12 10:25:03,789 ERROR Database connection failed: timeout
+2024-12-12 10:25:45,101 INFO Scheduled backup completed
+2024-12-12 10:26:30,234 ERROR Failed to send email: SMTP error
+2024-12-12 10:27:15,567 INFO User logout for user_id=101
+2024-12-12 10:28:45,890 WARNING Memory usage exceeded 80%
+2024-12-12 10:29:33,678 INFO System health check passed
+2024-12-12 10:30:10,345 ERROR File not found: /path/to/file.txt
+2024-12-12 10:31:55,012 INFO New user registration: user_id=102
